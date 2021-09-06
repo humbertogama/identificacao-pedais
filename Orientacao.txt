@@ -1,3 +1,6 @@
+código principal: aghumbertomodelo3
+
+
 Melhor execução:
 
 Entrada: testeBDL.wav
