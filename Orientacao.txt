@@ -1,0 +1,31 @@
+Melhor execução:
+
+Entrada: testeBDL.wav
+Saída de referência: testeBDS.wav
+
+Algoritmo Genético: i25 g100 m0.07, pesot = 0, pesofft = 1
+
+Parâmetros: 
+    9.2667
+
+    0.6073
+
+    0.6411
+
+    0.3829
+
+    0.3994
+
+    1.0513
+
+   82.1777
+
+   2.1890e+03
+
+   1.8166e+03
+
+   63.6827
+
+   -0.3120
+
+[out]  = compmodel3(entrada,gpre, gpost,gbias,gdry,a,b, fc1, fc2, fc3, fc4, gbp)
